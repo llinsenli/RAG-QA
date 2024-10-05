@@ -1,6 +1,6 @@
 # Retrieval-Augmented Generation (RAG) QA System
 
-This project implements a Retrieval-Augmented Generation (RAG) QA system using [Sentence BERT](https://www.sbert.net/docs/sentence_transformer/training_overview.html#dataset) for embeddings and Llama as the language model for question answering. The system takes a query, reads context from a file, retrieves related content from the web, and combines these to provide an answer.
+This project implements a Retrieval-Augmented Generation (RAG) QA system using [Sentence BERT](https://www.sbert.net/docs/sentence_transformer/training_overview.html#dataset) for embeddings and gpt2 as the language model for question answering. The system takes a query, reads context from a file, retrieves related content from the web, and combines these to provide an answer.
 
 ## Overview
 
