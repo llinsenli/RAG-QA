@@ -12,20 +12,6 @@ The Retrieval-Augmented Generation (RAG) QA System expertly combines three key m
 - `context.txt`: Text file containing the initial context related to the query.
 - `README.md`: Documentation for the project.
 
-## Requirements
-
-- Python 3.7+
-- `faiss-cpu`
-- `transformers`
-- `llama-index`
-- `beautifulsoup4`
-- `requests`
-
-To install all the requirements, run:
-
-```sh
-pip install -r requirements.txt
-```
 
 ## How to Use
 
